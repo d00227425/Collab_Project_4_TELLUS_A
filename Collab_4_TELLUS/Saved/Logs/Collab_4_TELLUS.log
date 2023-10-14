@@ -1359,3 +1359,466 @@ The following settings have been applied:
 [2023.10.14-13.24.47:202][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 237 ms)
 [2023.10.14-13.24.47:203][491]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.10.14-13.24.47:203][491]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.33.58:929][343]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build_B\SM_Roof_Structure_03_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build_B/M_Reg_Glass_Inst': Can't find file.
+[2023.10.14-13.33.58:930][343]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build_B\SM_Roof_Structure_03_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build_B/M_Reg_Glass_Inst'
+[2023.10.14-13.33.58:930][343]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build_B\SM_Roof_Structure_03_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build_B/MI_Roof_02': Can't find file.
+[2023.10.14-13.33.58:930][343]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build_B\SM_Roof_Structure_03_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build_B/MI_Roof_02'
+[2023.10.14-13.33.59:040][351]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Roof_Structure_03_02.SM_Roof_Structure_03_02
+[2023.10.14-13.33.59:040][351]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Roof_Structure_03_02.SM_Roof_Structure_03_02
+[2023.10.14-13.33.59:041][351]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Roof_Structure_03_02.SM_Roof_Structure_03_02 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_4
+[2023.10.14-13.33.59:371][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Roof_Structure_03_02.SM_Roof_Structure_03_02
+[2023.10.14-13.33.59:372][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Roof_Structure_03_02.SM_Roof_Structure_03_02
+[2023.10.14-13.33.59:372][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Roof_Structure_03_02.SM_Roof_Structure_03_02 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_5
+[2023.10.14-13.34.08:861][504]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.14-13.34.08:898][507]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/M_Base_2C': Can't find file.
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/M_Base_2C'
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Base_Mask': Can't find file.
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Base_Mask'
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_2_BaseColor': Can't find file.
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_2_BaseColor'
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_2_Emissive': Can't find file.
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_2_Emissive'
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_2_Normal': Can't find file.
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_2_Normal'
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Base_Metall_Dirt_BaseColor': Can't find file.
+[2023.10.14-13.34.11:913][819]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Base_Metall_Dirt_BaseColor'
+[2023.10.14-13.34.11:915][819]LogProxyMaterialUtilities: Warning: Material MI_Roof_02 is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: ================================================
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: Total job queries 20, among them cache hits 3 (15.00%)
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: RAM used: 593.85 KiB of 1.60 GiB budget. Usage: 0.04%
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.14-13.34.12:455][842]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 0.49
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Shader code size: average 74.895 KiB, min 74.895 KiB, max 74.895 KiB
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.49 s
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Total thread time: 0.237 s
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Total thread preprocess time: 0.022 s
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Percentage time preprocessing: 9.36%
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Effective parallelization: 0.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.10.14-13.34.12:456][842]LogShaderCompilers: Display: ================================================
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Base_Color': Can't find file.
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Base_Color'
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Emissive': Can't find file.
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Emissive'
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Mask': Can't find file.
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Mask'
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Normal': Can't find file.
+[2023.10.14-13.34.20:672][801]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Roof_03.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Roof_3_Normal'
+[2023.10.14-13.34.20:673][801]LogProxyMaterialUtilities: Warning: Material MI_Roof_03 is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2023.10.14-13.34.29:483][810]LogEditCondition: Error: MaterialProxySettings - EditCondition attempted to use an invalid operand "TextureSizingType" (value error).
+[2023.10.14-13.34.29:781][845]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.29:781][845]LogEditorTransaction: Undo Clear Children
+[2023.10.14-13.34.30:071][856]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.30:071][856]LogEditorTransaction: Undo Add Child
+[2023.10.14-13.34.30:285][863]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.30:286][863]LogEditorTransaction: Undo Clear Children
+[2023.10.14-13.34.30:713][909]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.30:713][909]LogEditorTransaction: Undo Edit Override Base Material
+[2023.10.14-13.34.31:033][946]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.31:033][946]LogEditorTransaction: Undo Move Elements
+[2023.10.14-13.34.44:875][588]LogProxyMaterialUtilities: Warning: Material MI_Roof_02 is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2023.10.14-13.34.51:300][303]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.51:301][303]LogEditorTransaction: Undo Edit Override Base Material
+[2023.10.14-13.34.53:867][558]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.53:868][558]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.14-13.34.54:304][605]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.54:304][605]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.14-13.34.54:684][645]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.54:684][645]LogEditorTransaction: Undo Move Elements
+[2023.10.14-13.34.55:100][693]Cmd: TRANSACTION UNDO
+[2023.10.14-13.34.55:100][693]LogEditorTransaction: Undo Create Actors
+[2023.10.14-13.35.04:599][784]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build_B\SM_Floor_Structure.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build_B/MI_Floor_A_01_2C': Can't find file.
+[2023.10.14-13.35.04:600][784]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build_B\SM_Floor_Structure.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build_B/MI_Floor_A_01_2C'
+[2023.10.14-13.35.04:810][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.35.04:810][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.35.04:811][802]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6
+[2023.10.14-13.35.05:908][931]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.35.05:909][931]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.35.05:910][931]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_7
+[2023.10.14-13.35.11:741][613]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_BaseColor': Can't find file.
+[2023.10.14-13.35.11:741][613]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_BaseColor'
+[2023.10.14-13.35.11:741][613]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_Normal': Can't find file.
+[2023.10.14-13.35.11:741][613]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_Normal'
+[2023.10.14-13.35.11:741][613]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_ORM': Can't find file.
+[2023.10.14-13.35.11:741][613]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_ORM'
+[2023.10.14-13.35.11:742][613]LogProxyMaterialUtilities: Warning: Material MI_Floor is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2023.10.14-13.35.19:497][487]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_1.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_1_BaseColor': Can't find file.
+[2023.10.14-13.35.19:498][487]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_1_BaseColor'
+[2023.10.14-13.35.19:498][487]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_1.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_1_Normal': Can't find file.
+[2023.10.14-13.35.19:498][487]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_1_Normal'
+[2023.10.14-13.35.19:499][487]LogProxyMaterialUtilities: Warning: Material MI_Floor_1 is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2023.10.14-13.35.23:375][900]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_A_02_2C.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_A_02_BaseColor': Can't find file.
+[2023.10.14-13.35.23:375][900]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_A_02_2C.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_A_02_BaseColor'
+[2023.10.14-13.35.23:375][900]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_A_02_2C.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_A_02_Normal': Can't find file.
+[2023.10.14-13.35.23:375][900]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_A_02_2C.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Floor_A_02_Normal'
+[2023.10.14-13.35.23:375][900]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_A_02_2C.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Base_Mask': Can't find file.
+[2023.10.14-13.35.23:376][900]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Floor_A_02_2C.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Base_Mask'
+[2023.10.14-13.35.23:376][900]LogProxyMaterialUtilities: Warning: Material MI_Floor_A_02_2C is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2023.10.14-13.36.10:324][ 95]Cmd: EDIT CUT
+[2023.10.14-13.36.10:328][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.14-13.36.10:333][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.14-13.36.10:335][ 95]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.10.14-13.36.14:658][592]Cmd: POLY SELECT MEMORY UNION
+[2023.10.14-13.36.17:923][967]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.14-13.36.22:685][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.36.22:685][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.36.22:686][500]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_8
+[2023.10.14-13.36.25:897][876]Cmd: TRANSACTION UNDO
+[2023.10.14-13.36.25:897][876]LogEditorTransaction: Undo Move Elements
+[2023.10.14-13.36.26:365][890]Cmd: TRANSACTION UNDO
+[2023.10.14-13.36.26:365][890]LogEditorTransaction: Undo Create Actor
+[2023.10.14-13.36.39:334][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.36.39:376][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.14-13.36.39:394][392]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.36.39:394][392]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMap895A94724D24D8DF0B3308A68F80AAB4.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.36.39:400][392]LogFileHelpers: All files are already saved.
+[2023.10.14-13.36.39:400][392]LogFileHelpers: Saving map 'VRTemplateMap' took 0.050
+[2023.10.14-13.36.39:404][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 308 ms)
+[2023.10.14-13.36.39:405][392]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.36.39:405][392]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.36.45:929][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.14-13.36.45:929][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.14-13.36.45:930][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_9
+[2023.10.14-13.36.45:931][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_9
+[2023.10.14-13.37.34:186][765]LogShaderCompilers: Display: ================================================
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Total job queries 28, among them cache hits 3 (10.71%)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 20 distinct outputs (83.33%)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: RAM used: 824.09 KiB of 1.60 GiB budget. Usage: 0.05%
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Shaders Compiled: 9
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Jobs assigned 10, completed 9 (90.00%)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Average time worker was idle: 100.11 s
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 1.83 s
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Job life time (pending + execution): average 0.63 s, max 1.90
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Shader code size: average 54.645 KiB, min 4.633 KiB, max 86.266 KiB
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.92 s
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Average processing rate: 3.08 jobs/sec
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Total thread time: 3.564 s
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Total thread preprocess time: 0.251 s
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Percentage time preprocessing: 7.04%
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.29 sec, max 0.29 sec, min 0.28 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.25 sec, max 0.26 sec, min 0.24 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 44.82% of total time (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.81% of total time (compiled    3 times, average 0.25 sec, max 0.26 sec, min 0.24 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.16% of total time (compiled    2 times, average 0.29 sec, max 0.29 sec, min 0.28 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.63% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display:                                                  FHitProxyVS - 6.91% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.10.14-13.37.34:187][765]LogShaderCompilers: Display: ================================================
+[2023.10.14-13.37.40:637][468]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Panel.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Panel_BaseColor': Can't find file.
+[2023.10.14-13.37.40:637][468]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Panel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Panel_BaseColor'
+[2023.10.14-13.37.40:637][468]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Panel.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Panel_Mask': Can't find file.
+[2023.10.14-13.37.40:637][468]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Panel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Panel_Mask'
+[2023.10.14-13.37.40:637][468]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Panel.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Panel_Normal': Can't find file.
+[2023.10.14-13.37.40:637][468]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Panel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Panel_Normal'
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/M_Base_Material': Can't find file.
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/M_Base_Material'
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_BaseColor': Can't find file.
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_BaseColor'
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_Mask': Can't find file.
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_Mask'
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_Normal': Can't find file.
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_Normal'
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_ORM': Can't find file.
+[2023.10.14-13.37.47:369][256]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Wall_A_Door.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_A/T_Wall_A_Door_ORM'
+[2023.10.14-13.37.53:532][980]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Wall_Portal.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Wall_Portal_BaseColor': Can't find file.
+[2023.10.14-13.37.53:532][980]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Wall_Portal.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Wall_Portal_BaseColor'
+[2023.10.14-13.37.53:532][980]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Wall_Portal.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/Build_B/T_Wall_Portal_Normal': Can't find file.
+[2023.10.14-13.37.53:532][980]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\Build_B\MI_Wall_Portal.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/Build_B/T_Wall_Portal_Normal'
+[2023.10.14-13.37.56:083][281]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Enviroment_Assets/Material/Build_B/MI_Wall_Portal.MI_Wall_Portal
+[2023.10.14-13.37.56:101][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-13.37.56:101][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.14-13.37.56:333][281]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.10.14-13.38.11:086][874]LogSlate: Window 'Message' being destroyed
+[2023.10.14-13.38.11:097][874]Message dialog closed, result: Ok, title: Message, text: Cannot set MI_Wall_Portal as a parent as it is already a child of this material instance.
+[2023.10.14-13.38.16:630][534]LogSlate: Window 'MI_Wall_Portal' being destroyed
+[2023.10.14-13.38.16:645][534]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.14-13.38.16:645][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.14-13.38.19:946][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.38.19:985][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.14-13.38.20:002][925]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.38.20:002][925]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMapC363E26D49558FA954814DA60A757C2A.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.38.20:009][925]LogFileHelpers: All files are already saved.
+[2023.10.14-13.38.20:009][925]LogFileHelpers: Saving map 'VRTemplateMap' took 0.044
+[2023.10.14-13.38.20:013][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 375 ms)
+[2023.10.14-13.38.20:015][925]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.38.20:015][925]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build/MI_Block_Balcon': Can't find file.
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build/MI_Block_Balcon'
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build/MI_Block_Balcon1': Can't find file.
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build/MI_Block_Balcon1'
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build/MI_Block_Balcon3': Can't find file.
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build/MI_Block_Balcon3'
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build/MI_Podium_Wood1': Can't find file.
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build/MI_Podium_Wood1'
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Build/MI_Reg_Glass_04': Can't find file.
+[2023.10.14-13.38.32:771][427]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Build\SM_Block_Balcon.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Build/MI_Reg_Glass_04'
+[2023.10.14-13.38.32:892][433]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build/SM_Block_Balcon.SM_Block_Balcon
+[2023.10.14-13.38.32:892][433]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build/SM_Block_Balcon.SM_Block_Balcon
+[2023.10.14-13.38.32:892][433]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build/SM_Block_Balcon.SM_Block_Balcon as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_10
+[2023.10.14-13.38.33:867][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build/SM_Block_Balcon.SM_Block_Balcon
+[2023.10.14-13.38.33:867][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build/SM_Block_Balcon.SM_Block_Balcon
+[2023.10.14-13.38.33:868][545]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build/SM_Block_Balcon.SM_Block_Balcon as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_11
+[2023.10.14-13.38.35:257][706]Cmd: TRANSACTION UNDO
+[2023.10.14-13.38.35:257][706]LogEditorTransaction: Undo Create Actors
+[2023.10.14-13.38.55:184][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure_03_02.SM_Floor_Structure_03_02
+[2023.10.14-13.38.55:184][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure_03_02.SM_Floor_Structure_03_02
+[2023.10.14-13.38.55:184][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure_03_02.SM_Floor_Structure_03_02 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_12
+[2023.10.14-13.38.55:904][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure_03_02.SM_Floor_Structure_03_02
+[2023.10.14-13.38.55:904][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure_03_02.SM_Floor_Structure_03_02
+[2023.10.14-13.38.55:905][994]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure_03_02.SM_Floor_Structure_03_02 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_13
+[2023.10.14-13.39.04:586][ 18]Cmd: TRANSACTION UNDO
+[2023.10.14-13.39.04:586][ 18]LogEditorTransaction: Undo Move Elements
+[2023.10.14-13.39.05:705][113]Cmd: EDIT CUT
+[2023.10.14-13.39.05:707][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.14-13.39.05:711][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.14-13.39.05:714][113]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.10.14-13.39.05:725][113]LogSlate: Took 0.004124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.14-13.39.07:840][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.39.07:840][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.39.07:840][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_14
+[2023.10.14-13.39.08:386][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.39.08:386][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.39.08:387][422]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_15
+[2023.10.14-13.40.23:938][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/M_Base_SolidColor': Can't find file.
+[2023.10.14-13.40.23:938][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/M_Base_SolidColor'
+[2023.10.14-13.40.23:939][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Base_Metall_BaseColor': Can't find file.
+[2023.10.14-13.40.23:939][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Base_Metall_BaseColor'
+[2023.10.14-13.40.23:939][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Base_Metall_Normal': Can't find file.
+[2023.10.14-13.40.23:939][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Base_Metall_Normal'
+[2023.10.14-13.40.23:939][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Metall_Gray_01': Can't find file.
+[2023.10.14-13.40.23:939][284]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_SolidColor_Base_Inst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Metall_Gray_01'
+[2023.10.14-13.40.24:049][291]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.14-13.40.26:545][582]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Base.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Base_Metall_02_BaseColor': Can't find file.
+[2023.10.14-13.40.26:545][582]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Base.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Base_Metall_02_BaseColor'
+[2023.10.14-13.40.32:291][237]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Base_Clear_Coat.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/M_Base_Clear_Coat': Can't find file.
+[2023.10.14-13.40.32:291][237]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Base_Clear_Coat.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/M_Base_Clear_Coat'
+[2023.10.14-13.40.32:291][237]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Base_Clear_Coat.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Metall_Gray_02_normal': Can't find file.
+[2023.10.14-13.40.32:291][237]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\MI_Base_Clear_Coat.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Metall_Gray_02_normal'
+[2023.10.14-13.40.32:292][237]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Enviroment_Assets/Material/MI_Base_Clear_Coat.MI_Base_Clear_Coat
+[2023.10.14-13.40.32:293][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-13.40.32:293][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.14-13.40.32:434][237]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.10.14-13.40.35:045][526]LogSlate: Window 'MI_Base_Clear_Coat' being destroyed
+[2023.10.14-13.40.35:060][526]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.14-13.40.35:060][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.14-13.41.36:250][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.41.36:294][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.14-13.41.36:311][224]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.41.36:311][224]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMap34F251D54C724A9C039DE18E8CE513DD.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.41.36:317][224]LogFileHelpers: All files are already saved.
+[2023.10.14-13.41.36:317][224]LogFileHelpers: Saving map 'VRTemplateMap' took 0.046
+[2023.10.14-13.41.36:321][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 446 ms)
+[2023.10.14-13.41.36:322][224]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.41.36:322][224]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.41.38:112][417]Cmd: EDIT CUT
+[2023.10.14-13.41.38:114][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.14-13.41.38:118][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.14-13.41.38:120][417]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.10.14-13.41.46:735][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.41.46:735][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.41.46:735][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_16
+[2023.10.14-13.41.48:199][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.41.48:199][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure
+[2023.10.14-13.41.48:200][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/Enviroment_Assets/Build_B/SM_Floor_Structure.SM_Floor_Structure as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_17
+[2023.10.14-13.42.00:116][992]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Plants\SM_Flower_01.uasset: Failed to load '/Game/Modular_Sci_Fi/Material/Plants/MI_Flower_01': Can't find file.
+[2023.10.14-13.42.00:116][992]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Plants\SM_Flower_01.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Material/Plants/MI_Flower_01'
+[2023.10.14-13.42.12:617][436]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_Base_2C.uasset: Failed to load '/Game/Modular_Sci_Fi/Textures/T_Base_Metall_02_Normal': Can't find file.
+[2023.10.14-13.42.12:617][436]LogLinker: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_Base_2C.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Modular_Sci_Fi/Textures/T_Base_Metall_02_Normal'
+[2023.10.14-13.42.12:620][436]LogMaterial: Warning: [AssetLog] D:\Downloads\GitHub Resp\Collab_Project_4_TELLUS\Collab_4_TELLUS\Content\Enviroment_Assets\Material\M_Base_2C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.10.14-13.42.12:621][436]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Enviroment_Assets/Material/M_Base_2C.M_Base_2C
+[2023.10.14-13.42.12:624][436]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Base_2C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.10.14-13.42.12:626][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-13.42.12:626][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.14-13.42.12:751][436]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Base_2C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:686][436]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.10.14-13.42.13:692][436]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.14-13.42.13:696][436]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: ================================================
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Total job queries 35, among them cache hits 3 (8.57%)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 25 distinct outputs (78.12%)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: RAM used: 1.14 MiB of 1.60 GiB budget. Usage: 0.07%
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Shaders Compiled: 17
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Average time worker was idle: 73.66 s
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.97 s
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 2.07
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Shader code size: average 66.086 KiB, min 4.633 KiB, max 86.266 KiB
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.50 s
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Average processing rate: 1.79 jobs/sec
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Total thread time: 10.866 s
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Total thread preprocess time: 0.529 s
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Percentage time preprocessing: 4.86%
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.62 sec, max 1.72 sec, min 1.55 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.54 sec, max 1.27 sec, min 0.28 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 44.81% of total time (compiled    3 times, average 1.62 sec, max 1.72 sec, min 1.55 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.85% of total time (compiled    4 times, average 0.54 sec, max 1.27 sec, min 0.28 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.89% of total time (compiled    6 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2023.10.14-13.42.14:269][452]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 14.48% of total time (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2023.10.14-13.42.14:270][452]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 2.50% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.10.14-13.42.14:270][452]LogShaderCompilers: Display: ================================================
+[2023.10.14-13.42.30:242][976]LogSlate: Window 'M_Base_2C' being destroyed
+[2023.10.14-13.42.30:264][976]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.14-13.42.30:265][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.14-13.42.34:287][455]Cmd: EDIT CUT
+[2023.10.14-13.42.34:289][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.14-13.42.34:294][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.14-13.42.34:299][455]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.10.14-13.42.36:773][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.42.36:812][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.10.14-13.42.36:829][746]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.42.36:829][746]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMap95EEDC534D67DCE38278F1B25F596BEF.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.42.36:835][746]LogFileHelpers: All files are already saved.
+[2023.10.14-13.42.36:835][746]LogFileHelpers: Saving map 'VRTemplateMap' took 0.043
+[2023.10.14-13.42.36:840][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 513 ms)
+[2023.10.14-13.42.36:841][746]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.42.36:841][746]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.42.37:882][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.42.37:929][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.10.14-13.42.37:945][871]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.42.37:945][871]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMapC1E30D4644ADD08190A75CBD42B1C362.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.42.37:951][871]LogFileHelpers: All files are already saved.
+[2023.10.14-13.42.37:951][871]LogFileHelpers: Saving map 'VRTemplateMap' took 0.042
+[2023.10.14-13.42.37:956][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 587 ms)
+[2023.10.14-13.42.37:957][871]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.42.37:957][871]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.42.43:015][461]MapCheck: New page: Map Check
+[2023.10.14-13.42.43:031][461]LightingResults: New page: Lighting Build - 14 Oct 2023, 15:42:43
+[2023.10.14-13.42.43:129][461]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.10.14-13.42.43:187][461]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.10.14-13.42.43:233][461]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.10.14-13.42.43:765][461]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.10.14-13.42.43:765][461]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12952
+[2023.10.14-13.42.50:141][461]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.10.14-13.42.50:141][461]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.10.14-13.42.50:141][461]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.10.14-13.42.50:141][461]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.10.14-13.42.50:141][461]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.10.14-13.42.50:324][461]LogEditorBuildUtils: Build time 0:07
+[2023.10.14-13.42.50:551][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.14-13.42.53:390][675]Job is a success!
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:      Bricks at depth
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:      Bricks in each level
+[2023.10.14-13.42.53:510][677]LogVolumetricLightmapImport:          VRTemplateMap 			 11 bricks 	 100.0% (Persistent Level)
+[2023.10.14-13.42.53:619][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:628][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:636][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:647][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:656][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:668][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:676][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:712][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:852][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_0 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:857][677]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_1 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.10.14-13.42.53:872][677]Lightmass on DESKTOP-OLT87H2: 2.70 sec total, 151 ms importing, 1 ms setup, 396 ms photons, 2.14 sec processing, 0 us extra exporting [11/11 mappings]. Threads: 23.6 sec total, 8.85 sec processing.
+[2023.10.14-13.42.53:912][677]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 11 meshes in 8 LightmapResourceClusters (1.4 Meshes per cluster).
+[2023.10.14-13.42.53:925][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.14-13.42.53:936][677]LogStaticLightingSystem: Illumination: 10.8 sec (159 ms encoding lightmaps, 145 ms encoding shadowmaps)
+[2023.10.14-13.42.53:936][677]LogStaticLightingSystem: Lightmap texture memory:  8.3 MB (8.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2023.10.14-13.42.53:936][677]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.10.14-13.42.54:144][677]DumpUnbuiltLightIteractions
+[2023.10.14-13.42.54:144][677]Lights with unbuilt interactions: 0
+[2023.10.14-13.42.54:144][677]
+[2023.10.14-13.42.54:144][677]Primitives with unbuilt interactions: 0
+[2023.10.14-13.42.54:250][678]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.10.14-13.42.54:250][678]MapCheck: New page: VRTemplateMap - 14 Oct 2023, 15:42:54
+[2023.10.14-13.42.54:253][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.587ms to complete.
+[2023.10.14-13.43.01:994][587]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Enviroment_Assets/Material/Build_B/MI_Wall_Portal.MI_Wall_Portal
+[2023.10.14-13.43.01:995][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-13.43.01:995][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.14-13.43.02:141][587]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.10.14-13.43.07:259][194]LogSlate: Window 'MI_Wall_Portal' being destroyed
+[2023.10.14-13.43.07:274][194]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.14-13.43.07:274][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.14-13.43.27:722][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.43.27:772][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.14-13.43.27:790][523]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.43.27:790][523]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMap32BD93D841C77174BC7283A6DD0FF245.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.43.27:797][523]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.10.14-13.43.27:797][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.43.27:838][523]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.10.14-13.43.27:838][523]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMap_BuiltData7E7DC6E14CEF0FB3BB0DD6A2530F5B50.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.10.14-13.43.27:839][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 629 ms)
+[2023.10.14-13.43.27:839][523]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.10.14-13.43.27:839][523]LogFileHelpers: Saving map 'VRTemplateMap' took 0.087
+[2023.10.14-13.43.27:845][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 751 ms)
+[2023.10.14-13.43.27:846][523]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.14-13.43.27:846][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.43.27:846][523]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.10.14-13.44.20:050][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.44.20:099][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.14-13.44.20:115][ 30]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.44.20:115][ 30]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMapC10BAD2E46B377EB34FCC4AB6C03488E.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.44.20:121][ 30]LogFileHelpers: All files are already saved.
+[2023.10.14-13.44.20:121][ 30]LogFileHelpers: Saving map 'VRTemplateMap' took 0.042
+[2023.10.14-13.44.20:126][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 826 ms)
+[2023.10.14-13.44.20:127][ 30]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.44.20:127][ 30]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
