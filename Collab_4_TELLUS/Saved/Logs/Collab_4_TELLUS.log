@@ -1341,3 +1341,21 @@ The following settings have been applied:
 [2023.10.14-13.18.24:541][595]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.10.14-13.18.24:541][595]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2023.10.14-13.18.54:032][928]LogDerivedDataCache: C:/Users/odhra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6377 files in 8284 folders with total size 1430 MiB.
+[2023.10.14-13.24.46:336][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.24.46:389][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.10.14-13.24.46:406][418]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.24.46:406][418]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMapDBC3C93D4AEFBD4F2B23E394BE919E32.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.24.46:412][418]LogFileHelpers: All files are already saved.
+[2023.10.14-13.24.46:412][418]LogFileHelpers: Saving map 'VRTemplateMap' took 0.043
+[2023.10.14-13.24.46:418][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 167 ms)
+[2023.10.14-13.24.46:419][418]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.24.46:419][418]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.14-13.24.47:132][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-13.24.47:175][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.10.14-13.24.47:191][491]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.14-13.24.47:191][491]LogSavePackage: Moving 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/VRTemplateMapA54FEED14EEC6B2C0C52E5A13EF100E6.tmp' to 'D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.14-13.24.47:197][491]LogFileHelpers: All files are already saved.
+[2023.10.14-13.24.47:197][491]LogFileHelpers: Saving map 'VRTemplateMap' took 0.042
+[2023.10.14-13.24.47:202][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 237 ms)
+[2023.10.14-13.24.47:203][491]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.10.14-13.24.47:203][491]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
