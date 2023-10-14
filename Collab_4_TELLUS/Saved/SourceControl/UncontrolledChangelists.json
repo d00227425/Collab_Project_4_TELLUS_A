@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/CollectionMaps/Map1_BuiltData.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/CollectionMaps/Map1.umap",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularScifiHallways/Textures/T_DefaultLight_S.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.uasset",
+				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.uasset"
 			]
 		}
 	]
