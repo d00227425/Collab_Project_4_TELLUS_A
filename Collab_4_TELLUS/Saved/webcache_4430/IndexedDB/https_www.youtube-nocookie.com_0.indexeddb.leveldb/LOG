@@ -1,0 +1,6 @@
+2023/11/07-16:48:48.280 7c24 Creating DB D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/07-16:48:48.286 7c24 Reusing MANIFEST D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/07-17:59:42.872 66e4 Level-0 table #5: started
+2023/11/07-17:59:42.878 66e4 Level-0 table #5: 1211 bytes OK
+2023/11/07-17:59:42.879 66e4 Delete type=0 #3
+2023/11/07-17:59:42.879 66e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
