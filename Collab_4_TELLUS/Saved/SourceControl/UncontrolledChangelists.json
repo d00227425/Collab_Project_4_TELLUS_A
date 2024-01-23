@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/Level/SpaceStation_Tellus.umap",
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/vrarms/whitesuit.uasset",
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/vrarms/controler1.uasset",
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/vrarms/screw.uasset",
@@ -181,8 +182,6 @@
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/connectionmat2.uasset",
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/mainscreenmat.uasset",
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/connectionmat4.uasset",
-				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/Material.uasset",
-				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/mainscreenmat.uasset",
 				"C:/Users/thedo/Documents/GitHub/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/3dmodels/Material.uasset",
 				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/Downloads/GitHub Resp/Collab_Project_4_TELLUS/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
