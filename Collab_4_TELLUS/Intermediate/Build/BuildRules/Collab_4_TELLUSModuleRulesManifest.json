@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Collab_Project_4_TELLUS\\Collab_4_TELLUS\\Intermediate\\Source\\Collab_4_TELLUS.Build.cs",
+		"C:\\Collab_Project_4_TELLUS\\Collab_4_TELLUS\\Intermediate\\Source\\Collab_4_TELLUS.Target.cs",
+		"C:\\Collab_Project_4_TELLUS\\Collab_4_TELLUS\\Intermediate\\Source\\Collab_4_TELLUSClient.Target.cs",
+		"C:\\Collab_Project_4_TELLUS\\Collab_4_TELLUS\\Intermediate\\Source\\Collab_4_TELLUSEditor.Target.cs",
+		"C:\\Collab_Project_4_TELLUS\\Collab_4_TELLUS\\Intermediate\\Source\\Collab_4_TELLUSServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
