@@ -1323,3 +1323,476 @@ The following settings have been applied:
 [2024.03.08-00.18.35:246][797]LogSlate: Took 0.000641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2024.03.08-00.18.35:256][798]LogAutomationController: Ignoring very large delta of 12.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.03.08-00.18.41:895][798]LogAutomationController: Ignoring very large delta of 6.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.19.20:966][846]LogSlate: Window 'treehd' being destroyed
+[2024.03.08-00.19.20:970][846]LogSlate: Window 'treehd' being destroyed
+[2024.03.08-00.19.21:026][846]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.08-00.19.21:026][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.08-00.19.37:811][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.19.37:812][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.19.37:812][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_73
+[2024.03.08-00.19.38:578][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.19.38:578][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.19.38:580][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_75
+[2024.03.08-00.19.38:622][438]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PCG.PCGSettings'
+[2024.03.08-00.19.59:649][907]LogDerivedDataCache: C:/Users/thedo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.498 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7684 files in 10007 folders with total size 1217 MiB.
+[2024.03.08-00.21.23:878][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.08-00.21.25:892][ 54]LogSlate: Window 'Save Content' being destroyed
+[2024.03.08-00.21.25:907][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.08-00.21.25:992][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.08-00.21.25:998][ 54]LogPackageLocalizationCache: Processed 50 localized package path(s) for 1 prioritized culture(s) in 0.005960 seconds
+[2024.03.08-00.21.26:058][ 54]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.03.08-00.21.26:058][ 54]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/VRTemplateMap6BABA4064FAE6749A94210AC15A73C5E.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.03.08-00.21.26:072][ 54]LogFileHelpers: All files are already saved.
+[2024.03.08-00.21.26:072][ 54]LogFileHelpers: Saving map 'VRTemplateMap' took 0.116
+[2024.03.08-00.21.26:078][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms
+[2024.03.08-00.21.27:520][ 54]LogTexture: Display: Building textures: /Game/Level/SpaceStation_Tellus.SpaceStation_Tellus:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 32x64 x1x1x1) (Required Memory Estimate: 0.122383 MB), EncodeSpeed: Fast
+[2024.03.08-00.21.27:604][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.21.27:642][ 54]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/SpaceStation_Tellus.SpaceStation_Tellus
+[2024.03.08-00.21.27:642][ 54]Cmd: MAP LOAD FILE="../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Content/Level/SpaceStation_Tellus.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.08-00.21.27:642][ 54]LightingResults: New page: Lighting Build
+[2024.03.08-00.21.27:642][ 54]LoadErrors: New page: Loading map: SpaceStation_Tellus.umap
+[2024.03.08-00.21.27:717][ 54]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.08-00.21.27:717][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.08-00.21.27:718][ 54]MapCheck: New page: Map Check
+[2024.03.08-00.21.27:718][ 54]LightingResults: New page: Lighting Build
+[2024.03.08-00.21.27:724][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.08-00.21.27:729][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.08-00.21.27:751][ 54]LogWorld: UWorld::CleanupWorld for SpaceStation_Tellus, bSessionEnded=true, bCleanupResources=true
+[2024.03.08-00.21.27:752][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.08-00.21.27:783][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.08-00.21.27:787][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.08-00.21.27:818][ 54]LogAudio: Display: Audio Device (ID: 1) registered with world 'SpaceStation_Tellus'.
+[2024.03.08-00.21.27:818][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.21.27:818][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.08-00.21.27:818][ 54]LogAIModule: Creating AISystem for world SpaceStation_Tellus
+[2024.03.08-00.21.27:870][ 54]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.08-00.21.27:880][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.08-00.21.27:890][ 54]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.08-00.21.27:890][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2024.03.08-00.21.27:911][ 54]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.03.08-00.21.28:004][ 55]LogAutomationController: Ignoring very large delta of 4.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: ================================================
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Total job queries 123, among them cache hits 4 (3.25%)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 50 distinct outputs (72.46%)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: RAM used: 2.66 MiB of 1.60 GiB budget. Usage: 0.16%
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Shaders Compiled: 69
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Jobs assigned 81, completed 69 (85.19%)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Average time worker was idle: 32.93 s
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Time job spent in pending queue: average 0.45 s, longest 2.76 s
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 2.46 s
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 4.01
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Shader code size: average 72.773 KiB, min 4.16 KiB, max 89.922 KiB
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.05 s
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Jobs were issued in 81 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Average processing rate: 5.73 jobs/sec
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Total thread time: 53.464 s
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Total thread preprocess time: 2.232 s
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Percentage time preprocessing: 4.17%
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Effective parallelization: 4.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 2.06 sec, max 2.20 sec, min 1.53 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 1.95 sec, max 2.15 sec, min 1.65 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.46 sec, max 1.63 sec, min 1.09 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.56 sec, max 1.62 sec, min 0.19 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 0.34 sec, max 0.36 sec, min 0.32 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 34.68% of total time (compiled    9 times, average 2.06 sec, max 2.20 sec, min 1.53 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 18.27% of total time (compiled    5 times, average 1.95 sec, max 2.15 sec, min 1.65 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.35% of total time (compiled    6 times, average 1.46 sec, max 1.63 sec, min 1.09 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.55% of total time (compiled   12 times, average 0.56 sec, max 1.62 sec, min 0.19 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.22% of total time (compiled   15 times, average 0.26 sec, max 0.34 sec, min 0.20 sec)
+[2024.03.08-00.21.28:431][ 60]LogShaderCompilers: Display: ================================================
+[2024.03.08-00.21.52:013][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.21.52:032][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.21.53:803][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 0 (Found bundle for host: 0x751e5960000 [serially])
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 6 (Closing connection)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 9 (  Trying 54.173.53.67:443...)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.173.53.67) port 443)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 25 (Server certificate:)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 34 (Closing connection)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: 000007526BDBC800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-00.22.04:924][233]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.08-00.22.27:608][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.22.47:031][332]Cmd: TRANSACTION UNDO
+[2024.03.08-00.22.47:031][332]LogEditorTransaction: Undo Foliage Editing
+[2024.03.08-00.22.58:138][746]Cmd: TRANSACTION UNDO
+[2024.03.08-00.22.58:138][746]LogEditorTransaction: Undo Foliage Editing
+[2024.03.08-00.23.15:968][798]LogMaterial: Display: Material /Game/3dmodels/ENVIRONMENTPROPS/mats/CENTREPETAL.CENTREPETAL needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.03.08-00.23.15:983][798]LogMaterial: Display: Material /Game/3dmodels/ENVIRONMENTPROPS/mats/CENTREPETAL2.CENTREPETAL2 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.03.08-00.23.15:997][798]LogMaterial: Display: Material /Game/3dmodels/ENVIRONMENTPROPS/mats/CENTREPETAL1.CENTREPETAL1 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.03.08-00.23.16:011][798]LogMaterial: Display: Material /Game/3dmodels/ENVIRONMENTPROPS/mats/PETAL.PETAL needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.03.08-00.23.16:025][798]LogMaterial: Display: Material /Game/3dmodels/ENVIRONMENTPROPS/mats/STEM.STEM needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.03.08-00.23.16:039][798]LogMaterial: Display: Material /Game/3dmodels/ENVIRONMENTPROPS/mats/LEAF.LEAF needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2024.03.08-00.23.20:161][255]Cmd: TRANSACTION UNDO
+[2024.03.08-00.23.20:161][255]LogEditorTransaction: Undo Foliage Editing
+[2024.03.08-00.23.29:173][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.23.29:173][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.23.29:174][157]LogActorFactory: Actor Factory spawned StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd as actor: StaticMeshActor /Game/Level/SpaceStation_Tellus.SpaceStation_Tellus:PersistentLevel.StaticMeshActor_204
+[2024.03.08-00.23.29:929][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.23.29:929][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.23.29:930][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd as actor: StaticMeshActor /Game/Level/SpaceStation_Tellus.SpaceStation_Tellus:PersistentLevel.StaticMeshActor_205
+[2024.03.08-00.24.05:154][661]Cmd: EDIT COPY
+[2024.03.08-00.24.06:953][873]Cmd: EDIT PASTE
+[2024.03.08-00.24.15:880][730]Cmd: EDIT PASTE
+[2024.03.08-00.24.25:764][636]Cmd: EDIT PASTE
+[2024.03.08-00.26.58:300][857]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/WIPS/treehd.treehd
+[2024.03.08-00.26.58:390][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-00.26.58:390][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.08-00.26.58:810][857]LogViewport: Scene viewport resized to 595x423, mode Windowed.
+[2024.03.08-00.27.11:368][857]LogAutomationController: Ignoring very large delta of 13.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.27.18:145][859]LogAutomationController: Ignoring very large delta of 6.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 0 (Found bundle for host: 0x751e5960630 [serially])
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 6 (Closing connection)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 9 (  Trying 34.193.46.11:443...)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.193.46.11) port 443)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 25 (Server certificate:)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 34 (Closing connection)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: 000007543497D700: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-00.29.07:411][997]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.08-00.31.24:514][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.08-00.31.24:655][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/SpaceStation_Tellus_Auto1
+[2024.03.08-00.31.24:655][170]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SpaceStation_Tellus_Auto18AB204834C701F14F0E3AAACFEF982E0.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto1.umap'
+[2024.03.08-00.31.24:662][170]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto1.umap is in the /Temp path, will not scan.
+[2024.03.08-00.31.24:662][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/SpaceStation_Tellus' took 0.154
+[2024.03.08-00.31.24:663][170]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.154
+[2024.03.08-00.34.46:905][426]LogSlate: Window 'treehd' being destroyed
+[2024.03.08-00.34.46:910][426]LogSlate: Window 'treehd' being destroyed
+[2024.03.08-00.34.46:972][426]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.08-00.34.46:972][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.08-00.34.55:795][735]LogAutomationController: Ignoring very large delta of 2.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.34.58:407][886]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: ================================================
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Total job queries 320, among them cache hits 38 (11.88%)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Tracking 155 distinct input hashes that result in 110 distinct outputs (70.97%)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: RAM used: 6.13 MiB of 1.60 GiB budget. Usage: 0.37%
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Shaders Compiled: 155
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Jobs assigned 155, completed 155 (100%)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Average time worker was idle: 24.32 s
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Time job spent in pending queue: average 0.71 s, longest 3.26 s
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Job execution time: average 1.41 s, max 5.44 s
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Job life time (pending + execution): average 2.12 s, max 5.45
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Shader code size: average 73.951 KiB, min 4.16 KiB, max 101.195 KiB
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.25 s
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Jobs were issued in 139 batches (only local compilation was used), average 1.12 jobs/batch
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Average processing rate: 5.30 jobs/sec
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Total thread time: 138.605 s
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Total thread preprocess time: 4.637 s
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Percentage time preprocessing: 3.35%
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Effective parallelization: 4.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 2.14 sec, max 2.33 sec, min 1.78 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.11 sec, max 2.44 sec, min 1.81 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    3 times, average 2.06 sec, max 2.30 sec, min 1.76 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 2.06 sec, max 2.20 sec, min 1.53 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.98 sec, max 2.04 sec, min 1.93 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 18.52% of total time (compiled   12 times, average 2.14 sec, max 2.33 sec, min 1.78 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.54% of total time (compiled   13 times, average 1.44 sec, max 1.71 sec, min 1.09 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 13.38% of total time (compiled    9 times, average 2.06 sec, max 2.20 sec, min 1.53 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.73% of total time (compiled    7 times, average 1.93 sec, max 2.15 sec, min 1.65 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.71% of total time (compiled   18 times, average 0.67 sec, max 1.95 sec, min 0.17 sec)
+[2024.03.08-00.34.58:473][890]LogShaderCompilers: Display: ================================================
+[2024.03.08-00.35.07:836][634]LogAutomationController: Ignoring very large delta of 2.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.35.10:528][636]LogAutomationController: Ignoring very large delta of 2.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-00.41.26:025][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.08-00.41.26:154][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/SpaceStation_Tellus_Auto2
+[2024.03.08-00.41.26:154][402]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SpaceStation_Tellus_Auto2CD3DDF374E86BEEDDF4A2E843E3916AF.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto2.umap'
+[2024.03.08-00.41.26:160][402]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto2.umap is in the /Temp path, will not scan.
+[2024.03.08-00.41.26:160][402]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/SpaceStation_Tellus' took 0.141
+[2024.03.08-00.41.26:160][402]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2024.03.08-01.09.02:240][917]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/SPACEcontainer.SPACEcontainer
+[2024.03.08-01.09.02:297][917]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-01.09.02:297][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.08-01.09.02:718][917]LogViewport: Scene viewport resized to 595x423, mode Windowed.
+[2024.03.08-01.09.04:661][987]LogViewport: Scene viewport resized to 1009x894, mode Windowed.
+[2024.03.08-01.09.40:060][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.08-01.09.40:103][781]LogSavePackage: Moving output files for package: /Game/3dmodels/ENVIRONMENTPROPS/SPACEcontainer
+[2024.03.08-01.09.40:104][781]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SPACEcontainerD4051DD748105EDB29BCC4890319B96C.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Content/3dmodels/ENVIRONMENTPROPS/SPACEcontainer.uasset'
+[2024.03.08-01.09.40:112][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 223 ms)
+[2024.03.08-01.09.40:113][781]AssetCheck: New page: Asset Save: SPACEcontainer
+[2024.03.08-01.09.40:113][781]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/SPACEcontainer.SPACEcontainer
+[2024.03.08-01.09.59:148][127]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/powergenerator1.powergenerator1
+[2024.03.08-01.09.59:153][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.08-01.09.59:153][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.08-01.09.59:571][127]LogViewport: Scene viewport resized to 1009x894, mode Windowed.
+[2024.03.08-01.10.01:074][288]LogEditorFactories: Performing atomic reimport of [C:/Users/thedo/Documents/blenderfiles/models/powergenerator1.fbx]
+[2024.03.08-01.10.01:141][288]LogFbx: Loading FBX Scene from C:/Users/thedo/Documents/blenderfiles/models/powergenerator1.fbx
+[2024.03.08-01.10.01:465][288]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.08-01.10.03:144][288]LogFbx: Display: Triangulating static mesh screenframe.017
+[2024.03.08-01.10.24:567][288]LogStaticMesh: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.03.08-01.10.24:567][288]LogStaticMesh: Warning: powergenerator1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.10.24:567][288]LogStaticMesh: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.10.24:661][288]LogEditorFactories: -- imported successfully
+[2024.03.08-01.10.24:736][288]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.08-01.10.24:736][288]FBXImport: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.03.08-01.10.24:736][288]FBXImport: Warning: powergenerator1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.03.08-01.10.24:736][288]FBXImport: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.03.08-01.10.26:438][288]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 64% occupied, 409940 triangles, powergenerator1
+[2024.03.08-01.10.26:489][288]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1) ...
+[2024.03.08-01.10.26:523][288]LogStaticMesh: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.03.08-01.10.26:523][288]LogStaticMesh: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.10.26:689][289]LogAutomationController: Ignoring very large delta of 25.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-01.10.26:791][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.08-01.10.26:927][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/SpaceStation_Tellus_Auto3
+[2024.03.08-01.10.26:927][289]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SpaceStation_Tellus_Auto3E7FCA2DC4B9B2FB64FD54892DDDCB371.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto3.umap'
+[2024.03.08-01.10.26:934][289]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto3.umap is in the /Temp path, will not scan.
+[2024.03.08-01.10.26:935][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/SpaceStation_Tellus' took 0.165
+[2024.03.08-01.10.26:935][289]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.165
+[2024.03.08-01.10.26:935][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1] ([1] browsable assets)...
+[2024.03.08-01.10.26:946][289]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/powergenerator1.powergenerator1]
+[2024.03.08-01.10.26:946][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1]
+[2024.03.08-01.10.27:148][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1_Auto3
+[2024.03.08-01.10.27:148][289]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/powergenerator1_Auto3A0F96D9B4CBAA440A0CE3985637E932D.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1_Auto3.uasset'
+[2024.03.08-01.10.27:149][289]LogFileHelpers: Auto-saving content packages took 0.213
+[2024.03.08-01.11.12:405][719]LogEditorFactories: Performing atomic reimport of [C:/Users/thedo/Documents/blenderfiles/models/powergenerator1.fbx]
+[2024.03.08-01.11.12:459][719]LogFbx: Loading FBX Scene from C:/Users/thedo/Documents/blenderfiles/models/powergenerator1.fbx
+[2024.03.08-01.11.12:777][719]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.08-01.11.13:253][719]LogFbx: Display: Triangulating static mesh screenframe.017
+[2024.03.08-01.11.35:566][719]LogStaticMesh: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.03.08-01.11.35:567][719]LogStaticMesh: Warning: powergenerator1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.11.35:567][719]LogStaticMesh: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.11.35:666][719]LogEditorFactories: -- imported successfully
+[2024.03.08-01.11.35:745][719]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.08-01.11.35:745][719]FBXImport: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.03.08-01.11.35:745][719]FBXImport: Warning: powergenerator1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.03.08-01.11.35:745][719]FBXImport: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.03.08-01.11.37:439][719]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 64% occupied, 409940 triangles, powergenerator1
+[2024.03.08-01.11.37:490][719]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1) ...
+[2024.03.08-01.11.37:524][719]LogStaticMesh: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.03.08-01.11.37:524][719]LogStaticMesh: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.11.37:685][719]LogAutomationController: Ignoring very large delta of 25.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 0 (Found bundle for host: 0x751e5960060 [serially])
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 6 (Closing connection)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 9 (  Trying 54.85.95.102:443...)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.85.95.102) port 443)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 25 (Server certificate:)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 34 (Closing connection)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: 00000753397E7800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-01.15.15:692][375]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: ================================================
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Total job queries 360, among them cache hits 40 (11.11%)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Tracking 193 distinct input hashes that result in 135 distinct outputs (69.95%)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: RAM used: 7.48 MiB of 1.60 GiB budget. Usage: 0.46%
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Shaders Compiled: 193
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Jobs assigned 193, completed 193 (100%)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Average time worker was idle: 75.09 s
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Time job spent in pending queue: average 0.58 s, longest 3.26 s
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Job execution time: average 1.21 s, max 5.44 s
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 5.45
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Shader code size: average 69.495 KiB, min 3.105 KiB, max 101.195 KiB
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.00 s
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Jobs were issued in 177 batches (only local compilation was used), average 1.09 jobs/batch
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Average processing rate: 5.36 jobs/sec
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Total thread time: 149.383 s
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Total thread preprocess time: 5.495 s
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Percentage time preprocessing: 3.68%
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Effective parallelization: 4.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.11 sec, max 2.44 sec, min 1.81 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    3 times, average 2.06 sec, max 2.30 sec, min 1.76 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 2.06 sec, max 2.20 sec, min 1.53 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 2.06 sec, max 2.33 sec, min 1.08 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.98 sec, max 2.04 sec, min 1.93 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 17.90% of total time (compiled   13 times, average 2.06 sec, max 2.33 sec, min 1.08 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 14.15% of total time (compiled   15 times, average 1.41 sec, max 1.71 sec, min 1.09 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 12.41% of total time (compiled    9 times, average 2.06 sec, max 2.20 sec, min 1.53 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.38% of total time (compiled   28 times, average 0.50 sec, max 1.95 sec, min 0.17 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.03% of total time (compiled    7 times, average 1.93 sec, max 2.15 sec, min 1.65 sec)
+[2024.03.08-01.17.32:986][829]LogShaderCompilers: Display: ================================================
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 0 (Found bundle for host: 0x751e5960e40 [serially])
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 6 (Closing connection)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 9 (  Trying 18.214.79.131:443...)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.214.79.131) port 443)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 25 (Server certificate:)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 34 (Closing connection)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: 0000075237A4E100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.08-01.19.02:826][552]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFEF6D4C5-45A0-21DC-98D0-74B476861F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ad39e654cfa20fefe0c67aa1c1a61f9%7C17caad5730c34496ab2407f51d699568%7Cfdd8e9c0-5cdd-4b1c-bbcf-e090be566ef7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.08-01.19.59:337][237]LogDerivedDataCache: C:/Users/thedo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.185 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7719 files in 10060 folders with total size 1227 MiB.
+[2024.03.08-01.20.10:149][522]LogStaticMesh: Display: Building static mesh powergenerator1...
+[2024.03.08-01.20.10:172][522]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1) ...
+[2024.03.08-01.20.14:022][522]LogStaticMesh: Adjacency [0.16s], tris: 1229820, UVs 2, Tangents
+[2024.03.08-01.20.16:437][522]LogStaticMesh: Clustering [2.41s]. Ratio: 1.017069
+[2024.03.08-01.20.16:469][522]LogStaticMesh: Leaves [0.03s]
+[2024.03.08-01.20.20:158][522]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2024.03.08-01.20.20:386][522]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.228360s
+[2024.03.08-01.20.21:626][522]LogStaticMesh: Reduce [5.15s]
+[2024.03.08-01.20.24:803][522]LogStaticMesh: Fallback 0/1 [3.18s], num tris: 42818
+[2024.03.08-01.20.25:088][522]LogStaticMesh: ConstrainClusters:
+[2024.03.08-01.20.25:088][522]LogStaticMesh:   Input: 20024 Clusters, 2520809 Triangles and 2347221 Vertices
+[2024.03.08-01.20.25:088][522]LogStaticMesh:   Output without splits: 20024 Clusters, 2520809 Triangles and 2349038 Vertices
+[2024.03.08-01.20.25:088][522]LogStaticMesh:   Output with splits: 20829 Clusters, 2520809 Triangles and 2349678 Vertices
+[2024.03.08-01.20.25:099][522]LogStaticMesh: Material Stats - Unique Materials: 25, Fast Path Clusters: 20797, Slow Path Clusters: 32, 1 Material: 20355, 2 Materials: 385, 3 Materials: 57, At Least 4 Materials: 32
+[2024.03.08-01.20.25:376][522]LogStaticMesh: WritePages:
+[2024.03.08-01.20.25:376][522]LogStaticMesh:   Root: GPU size: 30556 bytes. 1 Pages. 30556.000 bytes per page (93.250% utilization).
+[2024.03.08-01.20.25:376][522]LogStaticMesh:   Streaming: GPU size: 36313992 bytes. 279 Pages (262 with relative encoding). 130157.680 bytes per page (99.302% utilization).
+[2024.03.08-01.20.25:376][522]LogStaticMesh:   Page data disk size: 27474868 bytes. Fixup data size: 140480 bytes.
+[2024.03.08-01.20.25:376][522]LogStaticMesh:   Total GPU size: 36344548 bytes, Total disk size: 27615348 bytes.
+[2024.03.08-01.20.25:380][522]LogStaticMesh: Encode [0.58s]
+[2024.03.08-01.20.25:381][522]LogStaticMesh: Nanite build [8.90s]
+
+[2024.03.08-01.20.25:509][522]LogStaticMesh: Built static mesh [15.36s] /Game/3dmodels/ENVIRONMENTPROPS/powergenerator1.powergenerator1
+[2024.03.08-01.20.25:617][522]LogStaticMesh: Warning: powergenerator1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.03.08-01.20.25:617][522]LogStaticMesh: Warning: powergenerator1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.03.08-01.20.25:622][522]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 15.467144s (5.467144s overbudget)
+[2024.03.08-01.20.25:780][522]LogAutomationController: Ignoring very large delta of 15.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.08-01.20.27:557][529]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 64% occupied, 409940 triangles, powergenerator1
+[2024.03.08-01.20.37:536][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.08-01.20.37:670][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/SpaceStation_Tellus_Auto4
+[2024.03.08-01.20.37:671][558]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SpaceStation_Tellus_Auto4C0E0743943710F95B4463EA109C7C82B.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto4.umap'
+[2024.03.08-01.20.37:676][558]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/Level/SpaceStation_Tellus_Auto4.umap is in the /Temp path, will not scan.
+[2024.03.08-01.20.37:676][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/SpaceStation_Tellus' took 0.166
+[2024.03.08-01.20.37:676][558]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.166
+[2024.03.08-01.20.37:676][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1] ([1] browsable assets)...
+[2024.03.08-01.20.37:709][558]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/powergenerator1.powergenerator1]
+[2024.03.08-01.20.37:709][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1]
+[2024.03.08-01.20.37:909][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1_Auto4
+[2024.03.08-01.20.37:909][558]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/powergenerator1_Auto435AA3C104127B1AEDF4C96A3D3B81742.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/Autosaves/Game/3dmodels/ENVIRONMENTPROPS/powergenerator1_Auto4.uasset'
+[2024.03.08-01.20.37:911][558]LogFileHelpers: Auto-saving content packages took 0.235
+[2024.03.08-02.19.59:365][244]LogDerivedDataCache: C:/Users/thedo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.211 and deleted 2 files with total size 0 MiB and 2 empty folders. Scanned 7726 files in 10071 folders with total size 1251 MiB.
+[2024.03.08-03.07.20:131][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.08-03.07.20:171][ 34]LogSavePackage: Moving output files for package: /Game/3dmodels/ENVIRONMENTPROPS/SPACEcontainer
+[2024.03.08-03.07.20:172][ 34]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SPACEcontainerFED125A0401F0E3779923DAFB3AF15FB.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Content/3dmodels/ENVIRONMENTPROPS/SPACEcontainer.uasset'
+[2024.03.08-03.07.20:178][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 271 ms)
+[2024.03.08-03.07.20:179][ 34]AssetCheck: New page: Asset Save: SPACEcontainer
+[2024.03.08-03.07.20:179][ 34]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/SPACEcontainer.SPACEcontainer
+[2024.03.08-03.07.58:498][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.08-03.07.58:502][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.08-03.07.58:586][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.08-03.07.58:722][259]LogSavePackage: Moving output files for package: /Game/Level/SpaceStation_Tellus
+[2024.03.08-03.07.58:723][259]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/SpaceStation_TellusA96DD7F541294A7E8C6944AE00FC6370.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Content/Level/SpaceStation_Tellus.umap'
+[2024.03.08-03.07.58:738][259]LogFileHelpers: All files are already saved.
+[2024.03.08-03.07.58:738][259]LogFileHelpers: Saving map 'SpaceStation_Tellus' took 0.194
+[2024.03.08-03.07.58:942][259]LogSavePackage: Moving output files for package: /Game/3dmodels/ENVIRONMENTPROPS/powergenerator1
+[2024.03.08-03.07.58:942][259]LogSavePackage: Moving '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Saved/powergenerator1D1340487465A5995F05931BEE55ACAD4.tmp' to '../../../../../../Users/thedo/Collab_Project_4_TELLUS_A/Collab_4_TELLUS/Content/3dmodels/ENVIRONMENTPROPS/powergenerator1.uasset'
+[2024.03.08-03.07.58:950][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 448 ms (total: 719 ms)
+[2024.03.08-03.07.58:954][259]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.08-03.07.58:954][259]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/SpaceStation_Tellus.SpaceStation_Tellus
+[2024.03.08-03.07.58:954][259]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3dmodels/ENVIRONMENTPROPS/powergenerator1.powergenerator1
